@@ -2,5 +2,4 @@ This is my first Git file.
 This is my first line in Feature Branch.
 This line added from master.
 This change is from dev branch.
-
-
+Practicing Git revision
