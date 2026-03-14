@@ -3,3 +3,4 @@ This is my first line in Feature Branch.
 This line added from master.
 This change is from dev branch.
 Practicing Git revision
+This change is from dev-day6 branch
